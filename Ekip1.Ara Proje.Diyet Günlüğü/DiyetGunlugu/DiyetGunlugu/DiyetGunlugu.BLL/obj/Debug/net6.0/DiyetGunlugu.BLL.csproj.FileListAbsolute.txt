@@ -1,0 +1,119 @@
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.deps.json
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.pdb
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.pdb
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.AssemblyReference.cache
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfoInputs.cache
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfo.cs
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CopyComplete
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\refint\DiyetGunlugu.BLL.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\ref\DiyetGunlugu.BLL.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.deps.json
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.pdb
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.pdb
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfo.cs
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CopyComplete
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\refint\DiyetGunlugu.BLL.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\ref\DiyetGunlugu.BLL.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.deps.json
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.pdb
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.pdb
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.AssemblyReference.cache
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfoInputs.cache
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfo.cs
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CopyComplete
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\refint\DiyetGunlugu.BLL.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\ref\DiyetGunlugu.BLL.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.deps.json
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.pdb
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.pdb
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.AssemblyReference.cache
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfoInputs.cache
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfo.cs
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CopyComplete
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\refint\DiyetGunlugu.BLL.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\ref\DiyetGunlugu.BLL.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.deps.json
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.AssemblyReference.cache
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfoInputs.cache
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfo.cs
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CopyComplete
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\refint\DiyetGunlugu.BLL.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\ref\DiyetGunlugu.BLL.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.deps.json
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.AssemblyReference.cache
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfoInputs.cache
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfo.cs
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CopyComplete
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\refint\DiyetGunlugu.BLL.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\ref\DiyetGunlugu.BLL.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.deps.json
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.DAL.pdb
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\bin\Debug\net6.0\DiyetGunlugu.MODEL.pdb
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.AssemblyReference.cache
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfoInputs.cache
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.AssemblyInfo.cs
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.csproj.CopyComplete
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\refint\DiyetGunlugu.BLL.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\DiyetGunlugu.BLL.pdb
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.BLL\obj\Debug\net6.0\ref\DiyetGunlugu.BLL.dll

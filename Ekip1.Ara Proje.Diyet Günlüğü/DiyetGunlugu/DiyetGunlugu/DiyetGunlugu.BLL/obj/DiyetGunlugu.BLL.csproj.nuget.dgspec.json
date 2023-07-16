@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.BLL\\DiyetGunlugu.BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.BLL\\DiyetGunlugu.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.BLL\\DiyetGunlugu.BLL.csproj",
+        "projectName": "DiyetGunlugu.BLL",
+        "projectPath": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.BLL\\DiyetGunlugu.BLL.csproj",
+        "packagesPath": "C:\\Users\\quize\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\quize\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.DAL\\DiyetGunlugu.DAL.csproj": {
+                "projectPath": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.DAL\\DiyetGunlugu.DAL.csproj"
+              },
+              "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.MODEL\\DiyetGunlugu.MODEL.csproj": {
+                "projectPath": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.MODEL\\DiyetGunlugu.MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.DAL\\DiyetGunlugu.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.DAL\\DiyetGunlugu.DAL.csproj",
+        "projectName": "DiyetGunlugu.DAL",
+        "projectPath": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.DAL\\DiyetGunlugu.DAL.csproj",
+        "packagesPath": "C:\\Users\\quize\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\quize\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.MODEL\\DiyetGunlugu.MODEL.csproj": {
+                "projectPath": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.MODEL\\DiyetGunlugu.MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.MODEL\\DiyetGunlugu.MODEL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.MODEL\\DiyetGunlugu.MODEL.csproj",
+        "projectName": "DiyetGunlugu.MODEL",
+        "projectPath": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.MODEL\\DiyetGunlugu.MODEL.csproj",
+        "packagesPath": "C:\\Users\\quize\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\quize\\OneDrive\\Masaüstü\\DiyetGunlugu-Son Versiyon Summary Eklendi-\\DiyetGunlugu\\DiyetGunlugu.MODEL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\quize\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

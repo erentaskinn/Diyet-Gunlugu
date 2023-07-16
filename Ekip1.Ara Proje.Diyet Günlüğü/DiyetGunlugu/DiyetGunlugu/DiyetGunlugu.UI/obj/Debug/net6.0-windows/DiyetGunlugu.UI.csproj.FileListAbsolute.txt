@@ -1,0 +1,551 @@
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.exe
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.deps.json
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.runtimeconfig.json
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.pdb
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.pdb
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.pdb
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.AssemblyReference.cache
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.GenerateResource.cache
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfoInputs.cache
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfo.cs
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CoreCompileInputs.cache
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CopyComplete
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\refint\DiyetGunlugu.UI.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.genruntimeconfig.cache
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\ref\DiyetGunlugu.UI.dll
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodChangeForm.resources
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.LoginForm.resources
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.Properties.Resources.resources
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.PasswordChangeForm.resources
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodAddForm.resources
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\FormOgunGosterim.FoodListForm.resources
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.NewUserForm.resources
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordForm.resources
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordChange.resources
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserPanelForm.resources
+C:\Users\quize\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserInformationAddorChangeForm.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.exe
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.deps.json
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.runtimeconfig.json
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.pdb
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.pdb
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.pdb
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodAddForm.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodChangeForm.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\FormOgunGosterim.FoodListForm.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordChange.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordForm.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.LoginForm.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.NewUserForm.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.PasswordChangeForm.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.Properties.Resources.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserInformationAddorChangeForm.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserPanelForm.resources
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfo.cs
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CopyComplete
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\refint\DiyetGunlugu.UI.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.genruntimeconfig.cache
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\ref\DiyetGunlugu.UI.dll
+C:\Users\pc\Desktop\diyet\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ReportsForm.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.exe
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.deps.json
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.runtimeconfig.json
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.pdb
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.pdb
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.pdb
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.AssemblyReference.cache
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodAddForm.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodChangeForm.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\FormOgunGosterim.FoodListForm.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordChange.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordForm.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.LoginForm.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.NewUserForm.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.PasswordChangeForm.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.Properties.Resources.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ReportsForm.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserInformationAddorChangeForm.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserPanelForm.resources
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.GenerateResource.cache
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfoInputs.cache
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfo.cs
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CoreCompileInputs.cache
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CopyComplete
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\refint\DiyetGunlugu.UI.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.genruntimeconfig.cache
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\ref\DiyetGunlugu.UI.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\EasyExcel.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\quize\source\repos\DiyetGunluguver8\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.exe
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.deps.json
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.runtimeconfig.json
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\EasyExcel.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.pdb
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.pdb
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.pdb
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.AssemblyReference.cache
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodAddForm.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodChangeForm.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\FormOgunGosterim.FoodListForm.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordChange.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordForm.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.LoginForm.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.NewUserForm.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.PasswordChangeForm.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.Properties.Resources.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ReportsForm.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserInformationAddorChangeForm.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserPanelForm.resources
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.GenerateResource.cache
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfoInputs.cache
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfo.cs
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CoreCompileInputs.cache
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CopyComplete
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\refint\DiyetGunlugu.UI.dll
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.genruntimeconfig.cache
+C:\Users\mrani\source\repos\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\ref\DiyetGunlugu.UI.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.AssemblyReference.cache
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodAddForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodChangeForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\FormOgunGosterim.FoodListForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordChange.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.LoginForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.NewUserForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.PasswordChangeForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ReportsForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserInformationAddorChangeForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserPanelForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.GenerateResource.cache
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\refint\DiyetGunlugu.UI.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.exe
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.deps.json
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.runtimeconfig.json
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\EasyExcel.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.dll
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.Properties.Resources.resources
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfoInputs.cache
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfo.cs
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CoreCompileInputs.cache
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CopyComplete
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.genruntimeconfig.cache
+C:\Users\quize\Downloads\DiyetGunlugu_Ver11_Tasarimli (1)\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\ref\DiyetGunlugu.UI.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.exe
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.deps.json
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.runtimeconfig.json
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\EasyExcel.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.pdb
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.AssemblyReference.cache
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodAddForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodChangeForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\FormOgunGosterim.FoodListForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordChange.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.LoginForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.NewUserForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.PasswordChangeForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.Properties.Resources.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ReportsForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserInformationAddorChangeForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserPanelForm.resources
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.GenerateResource.cache
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfoInputs.cache
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfo.cs
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CoreCompileInputs.cache
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CopyComplete
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\refint\DiyetGunlugu.UI.dll
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.genruntimeconfig.cache
+C:\Users\quize\Downloads\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\ref\DiyetGunlugu.UI.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.exe
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.deps.json
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.runtimeconfig.json
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\EasyExcel.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.BLL.pdb
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.DAL.pdb
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\bin\Debug\net6.0-windows\DiyetGunlugu.MODEL.pdb
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.AssemblyReference.cache
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodAddForm.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.FoodChangeForm.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\FormOgunGosterim.FoodListForm.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordChange.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ForgotPasswordForm.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.LoginForm.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.NewUserForm.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.PasswordChangeForm.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.Properties.Resources.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.ReportsForm.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserInformationAddorChangeForm.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.UserPanelForm.resources
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.GenerateResource.cache
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfoInputs.cache
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.AssemblyInfo.cs
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CoreCompileInputs.cache
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.csproj.CopyComplete
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\refint\DiyetGunlugu.UI.dll
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.pdb
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\DiyetGunlugu.UI.genruntimeconfig.cache
+C:\Users\quize\OneDrive\Masaüstü\DiyetGunlugu-Son Versiyon Summary Eklendi-\DiyetGunlugu\DiyetGunlugu.UI\obj\Debug\net6.0-windows\ref\DiyetGunlugu.UI.dll
